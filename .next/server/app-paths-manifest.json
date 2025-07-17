@@ -1,0 +1,7 @@
+{
+  "/api/checkin/route": "app/api/checkin/route.js",
+  "/api/wages/route": "app/api/wages/route.js",
+  "/check-in-out/page": "app/check-in-out/page.js",
+  "/page": "app/page.js",
+  "/wages/page": "app/wages/page.js"
+}
